@@ -1,4 +1,7 @@
 source :rubygems
 
 gem 'json'
-gem 'rest-client'
+gem 'nestful'
+gem 'i18n'
+gem 'awesome_print'
+
